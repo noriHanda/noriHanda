@@ -46,7 +46,7 @@
 </p>
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-Mikan
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noriHanda&show_icons=true&theme=nord
 )](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
