@@ -15,6 +15,7 @@
 [![](https://raw.githubusercontent.com/noriHanda/noriHanda/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/noriHanda/noriHanda/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noriHanda&show_icons=true&theme=nord
 )](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noriHanda&theme=nord)](https://git.io/streak-stats)
 
 ### Trophy
 
