@@ -16,9 +16,7 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noriHanda&show_icons=true&theme=nord
 )](https://github.com/anuraghazra/github-readme-stats)
 
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noriHanda&theme=nord)](https://git.io/streak-stats)
-
 
 ### Trophy
 
