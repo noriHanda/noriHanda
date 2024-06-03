@@ -18,6 +18,9 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noriHanda&show_icons=true&theme=nord
 )](https://github.com/anuraghazra/github-readme-stats)
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
+
 ### Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noriHanda&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
