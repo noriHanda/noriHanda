@@ -19,8 +19,8 @@
 )](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/nori_handa" target="_blank" rel="noopener noreferrer"><img alt="nori_handa's scores on LAPRAS are as follows: Engineering: 3.45 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.21 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.45&b=3.57&i=3.21&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=en" width="400" ></a>  
-Last Updated on 7/25/2024, 12:59:59 AM</p>
+<p ><a href="https://lapras.com/public/nori_handa" target="_blank" rel="noopener noreferrer"><img alt="nori_handa's scores on LAPRAS are as follows: Engineering: 3.44 out of 5.0, Business: 3.57 out of 5.0, Influence: 3.21 out of 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.44&b=3.57&i=3.21&b1=%23004736&b2=%2300bf8f&i1=%23007b5c&i2=%2300bf8f&l=en" width="400" ></a>  
+Last Updated on 7/26/2024, 12:59:18 AM</p>
 <!--END_SECTION:lapras-card-->
 
 ### Trophies
